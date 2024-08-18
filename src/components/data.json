@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Cloud Accounts",
+        "description": "Sample text for Cloud Accounts widget"
+    },
+    {
+        "id": 2,
+        "title": "Cloud Account Risk Assessment",
+        "description": "Sample text for Cloud Account Risk Assessment widget"
+    },
+    {
+        "id": 3,
+        "title": "Top 5 Namespace Specific Alerts",
+        "description": "Sample text for Top 5 Namespace Specific Alerts widget"
+    },
+    {
+        "id": 4,
+        "title": "Workload Alerts",
+        "description": "Sample text for Workload Alerts widget"
+    },
+    {
+        "id": 5,
+        "title": "Image Risk Assessment",
+        "description": "Sample text for Image Risk Assessment widget"
+    },
+    {
+        "id": 6,
+        "title": "Image Security Issues",
+        "description": "Sample text for Image Security Issues widget"
+    }
+]

@@ -1,0 +1,47 @@
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(92, 90, 87);
+}
+
+.header-actions {
+    display: flex;
+    flex-direction: column;
+}
+
+.addWidget-container{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding-right: 10px;
+
+}
+.widgets-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.widget {
+    background-color: #35357e;
+    border-radius: 10px;
+    padding: 20px;
+    position: relative;
+}
+
+.remove-widget-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+}
+
+.widget h3 {
+    margin-top: 0;
+} 
+
